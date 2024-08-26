@@ -1,2 +1,2 @@
 This is my first file.
-It i a wonderful file.
+It is a wonderful file.
